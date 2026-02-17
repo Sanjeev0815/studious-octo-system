@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+numpy
+pandas
+sentence-transformers
+scikit-learn
+networkx
+matplotlib
+tqdm
+joblib
+xgboost
+python-dotenv
